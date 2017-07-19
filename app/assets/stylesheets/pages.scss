@@ -1,3 +1,22 @@
-// Place all the styles related to the Pages controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+h1 { 
+   position: absolute; 
+   top: 200px; 
+   left: 415px; 
+   width: 100%;
+   color: white;
+   font-size: 60px; 
+}
+
+.name {
+	position: absolute; 
+   top: 265px; 
+   left: 677px; 
+   width: 100%;
+   color: white;
+   font-size: 60px; 
+}
